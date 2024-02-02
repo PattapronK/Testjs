@@ -5,7 +5,7 @@
     height: 100%;
     display: flex;
     justify-content: center;
-    background: palevioletred; 
+    background: rgb(222, 135, 164); 
     border: 3px solid #717377;
     border-radius: 50px;
     box-shadow: 0px 20px 50px rgba(46, 47, 47, 0.5);
